@@ -16,5 +16,8 @@
 			bald = inputs.bald.packages.${system}.default;
 			bal = inputs.bal.packages.${system}.default;
 		}));
+		nixosModules = {
+			cwe-server = inputs.cwe-server.nixosModules.cwe_server;
+		};
 	};
 }
