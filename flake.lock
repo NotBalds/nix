@@ -42,11 +42,11 @@
         "nixpkgs": "nixpkgs_3"
       },
       "locked": {
-        "lastModified": 1723146509,
-        "narHash": "sha256-G5azdQcXgdenDef321zAU+S9b8gkKm4DiI5iMzCqtNA=",
+        "lastModified": 1723147270,
+        "narHash": "sha256-L53pcbT6tKfQP1MVFsQ6xSiqmxayEBHcFuOkFwkqKyc=",
         "owner": "NotBalds",
         "repo": "cwe-client-cli",
-        "rev": "1927e70b39b05472c113557dcf28b017e87f944d",
+        "rev": "b9f481ebb3d69b4d6db89c319a528abaaffaed7e",
         "type": "github"
       },
       "original": {
