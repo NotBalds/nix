@@ -61,11 +61,11 @@
         "nixpkgs": "nixpkgs_4"
       },
       "locked": {
-        "lastModified": 1723206894,
-        "narHash": "sha256-bYTPCsl4baE22uZndCZsh2SXpd1n4oNvyHb064CZ7pM=",
+        "lastModified": 1723363590,
+        "narHash": "sha256-G1pqPLyTpV7vXXll+tnagJrogoO8VQNmc8PJxKBCvlU=",
         "owner": "NotBalds",
         "repo": "cwe-server",
-        "rev": "d323eae38e0be0d95a750800ca10bff061f9f338",
+        "rev": "5b981614fcb86c07f4a1e4693da44a913907b59d",
         "type": "github"
       },
       "original": {
