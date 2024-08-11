@@ -42,16 +42,16 @@
         "nixpkgs": "nixpkgs_3"
       },
       "locked": {
-        "lastModified": 1723147270,
-        "narHash": "sha256-L53pcbT6tKfQP1MVFsQ6xSiqmxayEBHcFuOkFwkqKyc=",
+        "lastModified": 1723363268,
+        "narHash": "sha256-0VeNEKqgmiKJ5r+yQzi4pRcZt0f24IRSqh1vzgvO03U=",
         "owner": "NotBalds",
         "repo": "cwe-client-cli",
-        "rev": "b9f481ebb3d69b4d6db89c319a528abaaffaed7e",
+        "rev": "50f59620d14043e0d5fc958eb782bd55d57b6af8",
         "type": "github"
       },
       "original": {
         "owner": "NotBalds",
-        "ref": "v0.2.0",
+        "ref": "v0.3.0",
         "repo": "cwe-client-cli",
         "type": "github"
       }
@@ -61,16 +61,16 @@
         "nixpkgs": "nixpkgs_4"
       },
       "locked": {
-        "lastModified": 1723183438,
-        "narHash": "sha256-CBSdg6O74OHaN7d356gjQeffPxEuWRoeGt0qxu/rZwA=",
+        "lastModified": 1723206894,
+        "narHash": "sha256-bYTPCsl4baE22uZndCZsh2SXpd1n4oNvyHb064CZ7pM=",
         "owner": "NotBalds",
         "repo": "cwe-server",
-        "rev": "5caa58743c4a3b8252fa4558e4588ffc8c6b8311",
+        "rev": "d323eae38e0be0d95a750800ca10bff061f9f338",
         "type": "github"
       },
       "original": {
         "owner": "NotBalds",
-        "ref": "v0.2.0",
+        "ref": "v0.3.0",
         "repo": "cwe-server",
         "type": "github"
       }
