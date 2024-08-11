@@ -3,8 +3,8 @@
 
 	inputs = {
 		nixpkgs.url = "github:NixOS/nixpkgs";
-		cwe-server.url = "github:NotBalds/cwe-server/v0.2.0";
-		cwe-cli.url = "github:NotBalds/cwe-client-cli/v0.2.0";
+		cwe-server.url = "github:NotBalds/cwe-server/v0.3.0";
+		cwe-cli.url = "github:NotBalds/cwe-client-cli/v0.3.0";
 		bald.url = "github:NotBalds/bald";
 		bal.url = "github:NotBalds/bal";
 	};
